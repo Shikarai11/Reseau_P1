@@ -8,4 +8,4 @@ VEREECKE Alexis - 32752100
 ***
 Ce scénario consiste à se connecter à OneDrive, transférer un document puis à se déconnecter. Il se déroule sur un seul ordinateur connecté sans fil à un réseau wifi domestique. 
 
-Le fichier étant trop volumineux, il est accessible via le lien OneDrive. 
+Le fichier étant trop volumineux, il est accessible via le lien OneDrive : https://1drv.ms/u/s!AsNQ2GOc86NDgvtpwX1ODzOlh30xgw?e=ru1CUQ
