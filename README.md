@@ -1,2 +1,10 @@
 # Reseau_P1
-Github contenant tous les traces des scénarios réalisés ainsi que les scripts nécessaires réalisés pour effectuer nos mesures
+Projet n°1 du cours LINFO 1341 - Réseaux informatiques
+Ecole Polytechnique de Louvain
+
+VASSART Raphaël - 42442100
+VEREECKE Alexis - 32752100
+
+***
+
+Ce d
