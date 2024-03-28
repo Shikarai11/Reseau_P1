@@ -7,4 +7,4 @@ VEREECKE Alexis - 32752100
 
 ***
 
-Ce d
+Ce répertoire contient les paquets capturés et analysé dans le cadre de notre projet. Les clés de décryptage associées à ces enregistrements sont aussi disponibles. 
