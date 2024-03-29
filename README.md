@@ -7,4 +7,4 @@ VEREECKE Alexis - 35752100
 
 ***
 
-Ce répertoire contient les paquets capturés et analysé dans le cadre de notre projet. Les clés de décryptage associées à ces enregistrements sont aussi disponibles. 
+Ce répertoire contient les paquets capturés et analysés dans le cadre de notre projet. Les clés de décryptage associées à ces enregistrements sont aussi disponibles. 
